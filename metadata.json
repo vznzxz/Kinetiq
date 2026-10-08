@@ -1,0 +1,6 @@
+{
+  "name": "Kinetiq - High-Performance Online Fitness Tracking",
+  "description": "Minimalist, feature-rich fitness tracking platform for male and female athletes with workout logging, progress analytics, challenges, content approval, and system administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
